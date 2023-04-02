@@ -1,0 +1,3 @@
+﻿store_id,store_code,store_name,country_code,street_name,pin_code,lvl1_geog,lvl2_geog,lvl3_geog
+1,IND1,7-11-store1,IND,thomas street,600098,Tamil Nadu,Chennai,
+2,ID2,Test Store Jakarta,ID,"Jl Durian 19, Sumatera Utara",20235,Medan,Sumatera Utara,
