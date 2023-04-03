@@ -30,5 +30,5 @@ python -m pip install -r requirements.txt
 ## Running the tests
 To run the tests, use the following command:
 ```bash
-python -m unittest
+python -m unittest tests/test_dim_stores_etl_job.py
 ```
